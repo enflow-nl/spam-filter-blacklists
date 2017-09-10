@@ -1,0 +1,22 @@
+{
+    "name": "enflow/spam-filter-blacklists",
+    "description": "Contains files with blacklisted words/sentences used by enflow/component-spam-filter",
+    "homepage": "https://github.com/enflow-nl/spam-filter-blacklists",
+    "keywords": [
+        "enflow",
+        "spam",
+        "filter",
+        "blacklist"
+    ],
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Michel Bardelmeijer",
+            "email": "michel@enflow.nl"
+        },
+        {
+            "name": "Andreas Renberg",
+            "email": "contact@iqandreas.com"
+        }
+    ]
+}
